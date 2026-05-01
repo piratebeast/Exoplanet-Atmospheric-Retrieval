@@ -35,7 +35,7 @@ Any additional information goes here
 
 ## Results & Research Impact
 This research demonstrates the efficacy of using 1D-CNNs for astrophysical data retrieval. By reducing the feature space without losing critical spectral information, the model achieves high-performance atmospheric prediction on a scale that manual analysis cannot match.
-## ✍️ Authors
+## ✍️ Author
 
 - [@shishir](https://github.com/piratebeast)
 
